@@ -6,3 +6,4 @@ Full Metal Panic
 Trigun
 Bleach
 Naruto
+Claymore
